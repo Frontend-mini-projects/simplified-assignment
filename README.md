@@ -2,14 +2,14 @@
 
 
 ## Table of Contents
-* [Overview](https://github.com/utkarshgupta04092003/simplified-assignment/edit/main/README.md#overview)
-* [Screenshots](https://github.com/utkarshgupta04092003/simplified-assignment/edit/main/README.md#screenshots)
-* [Features](https://github.com/utkarshgupta04092003/simplified-assignment/edit/main/README.md#features)
-* [Technology Used](https://github.com/utkarshgupta04092003/simplified-assignment/edit/main/README.md#technology-used)
-* [Tools Used](https://github.com/utkarshgupta04092003/simplified-assignment/edit/main/README.md#tools-used)
-* [Author](https://github.com/utkarshgupta04092003/simplified-assignment/edit/main/README.md#author)
-* [Acknowledgement](https://github.com/utkarshgupta04092003/simplified-assignment/edit/main/README.md#acknowledgement)
-* Deploy Link
+* [Overview](https://github.com/utkarshgupta04092003/simplified-assignment#overview)
+* [Screenshots](https://github.com/utkarshgupta04092003/simplified-assignment#screenshots)
+* [Features](https://github.com/utkarshgupta04092003/simplified-assignment#features)
+* [Technology Used](https://github.com/utkarshgupta04092003/simplified-assignment#technology-used)
+* [Tools Used](https://github.com/utkarshgupta04092003/simplified-assignment#tools-used)
+* [Author](https://github.com/utkarshgupta04092003/simplified-assignment#author)
+* [Acknowledgement](https://github.com/utkarshgupta04092003/simplified-assignment#acknowledgement)
+* [Deploy Link](https://github.com/utkarshgupta04092003/simplified-assignment#deploy-link)
 
 
 ## Overview
@@ -76,7 +76,7 @@ Only frontend part is done in this repository.
 
 
 
-[Top of the Page](https://github.com/utkarshgupta04092003/simplified-assignment/edit/main/README.md#simplified-assignment)
+[Top of the Page](https://github.com/utkarshgupta04092003/simplified-assignment#simplified-assignment)
 
 
 
